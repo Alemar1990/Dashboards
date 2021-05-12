@@ -1,6 +1,6 @@
 # Sales Dashboard
 
-![Cat](https://raw.githubusercontent.com/Alemar1990/Dashboards\Sales Dashboard\Preview.PNG)
+![Cat](https://raw.githubusercontent.com/Alemar1990/Dashboards/Sales Dashboard/Preview.PNG)
 
 This dashboard was made through Leonardo Karpinski's course.
 
